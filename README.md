@@ -10,7 +10,7 @@ Import Data to Excel, Summary Statistics, OLS Regression, Correlation Heatmap, C
 <br>
 <br>
 A2, C6:<br>
-Line Graphs, Dickey-Fuller Test, ACF & PACF plots, AIC & BIC, ARIMA, Invertibility Check, ARIMA Forecast, Exponential Smoothing, RMSE
+Line Graphs, Dickey-Fuller Test, ACF & PACF plots, AIC & BIC, ARIMA, Invertibility Check, ARIMA Forecast, Holt-Winters Exponential Smoothing, RMSE
 <br>
 <br>
 A3, C7:<br>
