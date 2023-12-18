@@ -6,7 +6,9 @@ The following processes/analyses have been coded from A1-5:
 <br>
 <br>
 A1, C2~C5:<br>
-- Import Data to Excel, Summary Statistics, OLS Regression, Correlation Heatmap, Correlation Matrix, Minimum Variance Efficient Frontier, Chow Statistic, Breusch-Pagan Test, Ramsey-Reset Test
+* Import Data to Excel
+* Summary Statistics
+OLS Regression, Correlation Heatmap, Correlation Matrix, Minimum Variance Efficient Frontier, Chow Statistic, Breusch-Pagan Test, Ramsey-Reset Test
 <br>
 <br>
 A2, C6:<br>
